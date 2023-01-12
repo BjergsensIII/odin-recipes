@@ -1,0 +1,55 @@
+/* #MOST COMMON SELECTOR */
+
+div {
+    color: purple;
+}
+
+/* "  .  " is class */
+.alert-text {
+    color: red;
+}
+
+/* "  #  " is id */
+
+#title {
+    background-color: red;
+    color: white;
+    font-weight:lighter;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* grouping */
+
+.read {
+    color: white;
+    background-color: black;
+    /* several unique declarations */
+  }
+  
+  .unread {
+    color: white;
+    background-color: black;
+    /* several unique declarations */
+  }
+  /*
+    ||  ||
+    ||  ||
+    ||  ||
+    __  __ in to this
+
+  */
+  .read,
+.unread {
+  color: white;
+  background-color: black;
+}
+
+/* image */
+
+img {
+    height: auto;
+    width: 500px;
+  }
+
+
