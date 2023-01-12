@@ -1,0 +1,17 @@
+ p {
+    background-color: #de548c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.second-element{
+    color: #3c00ff;
+    font-size: 36px;
+}
+
+.third-element{
+    font-size: 24px;
+}
+
+.fourth-element{
+    background-color: rgb(184, 253, 184);
+}
